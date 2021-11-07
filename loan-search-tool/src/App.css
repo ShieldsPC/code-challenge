@@ -1,0 +1,13 @@
+.App {
+  padding: 30px 30px;
+  background-color:lightgray;
+  font: "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+.MuiPaper {
+  padding: 30px
+}
+
+emailText {
+  color: #0288D1;
+}

@@ -4,6 +4,9 @@ import CardContent from '@mui/material/CardContent';
 import Typography from '@mui/material/Typography';
 
 const Loan = ({ loan }) => {
+
+    //this.setState({loan: loan.loan});
+
     return (
        <Grid item xs={12} sm={6} md={4} lg={3}>
             <Card sx={{ minHeight: '250px', padding: '20px'}} elevation={5} gutterBottom className='MuiCard'>
